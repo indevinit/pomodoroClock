@@ -1,0 +1,57 @@
+body {
+	/* background-color: #0000; */
+	text-align: center;
+	background-image: linear-gradient(to bottom right, red, yellow);
+	
+}
+
+img {
+	width:80px;
+	height:80px;
+}
+
+.pieChart {
+	background-color: #d33f25;
+	/* color:  #0c8512; */
+	width: 250px;
+	height: 250px;
+	display: block;
+	border-radius: 50%;
+	margin: auto;
+	background-image: url("pomo.jpeg");
+
+	}
+
+.bt1 {
+	height: 40px;
+	width: 40px;
+	font-size: 20px;
+	text-align: center;
+	align-content: center;
+	background-color:yellow;
+	color: limegreen;
+}
+
+.bt2 {
+	height: 40px;
+	width: 180px;
+	font-size: 20px;
+	text-align: center;
+	align-content: center;
+	background-color:yellow;
+	color: limegreen;
+}
+
+p {
+	color: #c2240f;
+	font-size: 50px;
+	text-align: center;
+	align-content: center;
+	background-color: transparent;
+}
+
+.text-primary {
+	color: #063009;
+	font-size: 60px;  
+}
+
